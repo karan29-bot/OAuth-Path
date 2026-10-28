@@ -1,7 +1,7 @@
 # OAuth Path: assignment submission
 
-**Live app:** [LIVE LINK]
-**Source code:** [REPO LINK]
+**Live app:** https://oauth-path-app.vercel.app
+**Source code:** https://github.com/karan29-bot/OAuth-Path
 
 ## What it is
 
